@@ -33,7 +33,6 @@ from ops.main import main
 logger = logging.getLogger(__name__)
 
 
-
 class SunbeamMachineCharm(sunbeam_charm.OSBaseOperatorCharm):
     """Charm the service."""
 
